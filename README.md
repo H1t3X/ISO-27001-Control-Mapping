@@ -42,6 +42,14 @@ To evaluate the current security posture and identify gaps based on ISO 27001 An
 * Define security policies
 * Use secure hosting and CDN
 
+## 📊 Compliance Summary
+
+| Status | Count |
+|-------|------|
+| Implemented | X |
+| Partially | X |
+| Not Implemented | X |
+
 ## 📎 Files Included
 
 * ISO_Control_Mapping.xlsx
