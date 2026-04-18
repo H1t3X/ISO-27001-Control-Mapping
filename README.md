@@ -54,6 +54,16 @@ All selected controls are applicable to the portfolio system based on identified
 | Partially | 4 |
 | Not Implemented | 6 |
 
+## 🏢 Business Impact
+
+- Lack of access control may lead to unauthorized data exposure  
+- Absence of monitoring reduces ability to detect attacks  
+- Weak supplier validation increases supply chain risk
+
+## 📈 Security Maturity
+
+The current system demonstrates low to moderate maturity with significant gaps in access control, monitoring, and policy enforcement.
+
 ## 📎 Files Included
 
 * ISO_Control_Mapping.xlsx
