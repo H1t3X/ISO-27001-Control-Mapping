@@ -42,13 +42,17 @@ To evaluate the current security posture and identify gaps based on ISO 27001 An
 * Define security policies
 * Use secure hosting and CDN
 
+## 📌 Applicability
+
+All selected controls are applicable to the portfolio system based on identified risks and system exposure.
+
 ## 📊 Compliance Summary
 
 | Status | Count |
 |-------|------|
-| Implemented | X |
-| Partially | X |
-| Not Implemented | X |
+| Implemented | 0 |
+| Partially | 4 |
+| Not Implemented | 6 |
 
 ## 📎 Files Included
 
