@@ -62,6 +62,9 @@ All selected controls are applicable to the portfolio system based on identified
 
 Portfolio Website: https://hitesh114.github.io/h1t3x
 
+## 🔗 Related Work
+- Risk Assessment: [link]
+
 ## 🚀 Outcome
 
 This project demonstrates the ability to apply ISO 27001 controls in a practical environment and identify security gaps aligned with GRC practices.
